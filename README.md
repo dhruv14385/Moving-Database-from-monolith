@@ -9,6 +9,8 @@ I will move database from monolith server to a separate EC2 instance as a first 
 *	Open instance connect, and using mysqldump command, take backup of existing data into .sql file. Refer to commands file in the repository.
 *	Inject this .sql data into another EC2 instance which has only database. Do this by using private IPv4 of another EC2. Refer to video below for full demo from scratch.
 
+[![Image Alt Text Here](https://img.youtube.com/vi/zFshyd_24fU/0.jpg)](https://www.youtube.com/watch?v=zFshyd_24fU)
+
   
 
 
